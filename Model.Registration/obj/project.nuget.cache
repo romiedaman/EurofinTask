@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pvNDsJIqfQAdlxLoxSBTh/bsL7LypXO0IuwpbxtJNjaF3+Wk7hzwOSFhWlN7790gXg0iRCKsxbNzhjA1Jo5trQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\romit\\OneDrive\\Desktop\\Final_Task\\Task_1\\Model.Registration\\Model.Registration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\romit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
